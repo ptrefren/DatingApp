@@ -9,7 +9,6 @@
     transform: scale(1.0, 1.0);
     transition-duration: 500ms;
     transition-timing-function: ease-out;
-    opacity: 0.7;
 }
 
 .card-img-wrapper {
@@ -17,13 +16,13 @@
     position: relative;
 }
 
-.member-icon {
+.member-icons {
     position: absolute;
     bottom: -30%;
     left: 0;
     right: 0;
-    margin-left: auto;
     margin-right: auto;
+    margin-left: auto;
     opacity: 0;
 }
 
